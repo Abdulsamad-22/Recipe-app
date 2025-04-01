@@ -1,0 +1,39 @@
+.itemContainer {
+  width: 300px;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 1.25rem;
+  margin-left: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.itemImage {
+  max-width: 100%;
+  height: auto;
+}
+
+.itemContent {
+  padding: 0.5rem;
+}
+
+.foodName {
+  font-family: "poly-sans", sans-serif;
+  font-size: 1.125rem;
+  color: #393e46;
+  font-weight: 400;
+  margin: 0;
+}
+
+.buttonContainer {
+  padding: 0.5rem;
+}
+
+.cardButton {
+  padding: 0.625rem 0.75rem;
+  border-radius: 8px;
+  border: none;
+  background-color: #29bb89;
+  color: #fff;
+  cursor: pointer;
+  margin-bottom: 0.75rem;
+}
