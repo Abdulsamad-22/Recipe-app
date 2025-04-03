@@ -1,0 +1,25 @@
+.foodName {
+  color: #393e46;
+}
+
+.container {
+  width: 100%;
+}
+
+.imageContainer {
+  width: 100%;
+  margin: 10px auto;
+}
+
+.foodImage {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.contentContainer {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+}

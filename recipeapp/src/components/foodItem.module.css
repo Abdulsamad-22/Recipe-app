@@ -17,7 +17,7 @@
 }
 
 .foodName {
-  font-family: "poly-sans", sans-serif;
+  font-family: polySans, sans-serif;
   font-size: 1.125rem;
   color: #393e46;
   font-weight: 400;
@@ -35,5 +35,5 @@
   background-color: #29bb89;
   color: #fff;
   cursor: pointer;
-  margin-bottom: 0.75rem;
+  /* margin-bottom: 0.75rem; */
 }
